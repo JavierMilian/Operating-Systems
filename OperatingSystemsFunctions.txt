@@ -4,3 +4,6 @@ Sleep mode is when the computer turns off all the unneeded functions and leaves 
 Hibernate mode just save all open apps or programs to an internal hard drive before shutting down.
 Restart made keeps everything you have open but it restarts the computer so you may lose any unsaved progress.
 
+User interface (UI) controls how you enter date and instructions and how it displays on the screen.
+Graphical user interface (GUI) is how you interact with images and menus.
+Command-line interface is keywords or abbreviations used to enter data and instructions.
