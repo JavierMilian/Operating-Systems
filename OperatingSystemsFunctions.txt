@@ -8,7 +8,7 @@ User Interface
 
 User interface (UI) controls how you enter date and instructions and how it displays on the screen.
 Graphical user interface (GUI) is how you interact with images and menus.
-Command-line interface is keywords or abbreviations used to enter data and instructions.
+Command-line interface is keywords or abbreviations used to enter data and instructions.Im adding this because I forgot to add a meanningful note. 
 
 Functions Tools
 
